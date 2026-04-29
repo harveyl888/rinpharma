@@ -8,6 +8,30 @@ format:
   html:
     page-layout: full
 title-block-banner: false
+hangouts:
+  - Date: "2026-03-17"
+    Title: "Package Management"
+    Guests: "Devin Pastoor, Shannon Pileggi & Kevin Ushey"
+    Recording: "package_management"
+  - Date: "2026-04-21"
+    Title: "Open Telemetry"
+    Guests: "Barret Schloerke"
+    Recording: "shiny_otel"
+  - Date: "2026-05-19"
+    Title: "Containers (Nix) and Reproducibility"
+    Guests: "Bruno Rodrigues"
+  - Date: "2026-06-16"
+    Title: "ShinyMCP"
+    Guests: "James Wade"
+  - Date: "2026-07-21"
+    Title: "pointblank"
+    Guests: "Rich Iannone"
+  - Date: "2026-08-18"
+    Title: "ARD and ARS"
+    Guests: "Daniel Sjoberg"
+  - Date: "2026-09-15"
+    Title: "Behavior-Driven Development"
+    Guests: "Brian Repko & Jacub Sobolewski"
 ---
 
 Each month R/Pharma brings you a live Hangout featuring key innovators across the world of open source and life sciences.  
@@ -15,41 +39,26 @@ Join us for upcoming R/Pharma Hangouts, and check out our [recordings](/docs/han
 
 Keep up to date with [LinkedIn events and announcements](https://www.linkedin.com/company/open-source-in-pharma/) for each Hangout and, if you have a topic or guest you'd like to see featured, please reach out to us at [info@rinpharma.com](mailto:info@rinpharma.com) or via our [contact form](/contact.qmd).
 
-::: {style="display: flex; justify-content: center;"}
-
-| Date | Title | Guests |
-|:----:|:------|:-------|
-| 21 April, 2026 | Open Telemetry | Barret Schloerke |
-| 19 May, 2026 | Containers (Nix) and Reproducibility | Bruno Rodrigues |
-| 16 June, 2026<br>as part of GenAI Day | ShinyMCP | James Wade |
-| 21 July, 2026 | tbc | tbc |
-| 18 August, 2026 | ARD and ARS | Daniel Sjoberg |
-| 15 September, 2026 | Behavior-Driven Development | Brian Repko & Jacub Sobolewski |
-
-:::
+```{r}
+#| echo: false
+#| message: false
+hangouts <- dplyr::bind_rows(rmarkdown::metadata$hangouts) |>
+  dplyr::rowwise() |>
+  dplyr::mutate(Recording = ifelse(is.na(Recording), "", as.character(
+    shiny::tags$a(
+      href = paste0("/docs/hangout/recordings/", Recording, "/"),
+      class = "badge rounded-pill text-bg-danger d-inline-flex align-items-center gap-1 text-decoration-none",
+      "Recording"
+    )
+  )))
+knitr::kable(hangouts, escape = FALSE, format="html")
+```
 
 <style>
-.quarto-float {
-  max-width: 900px;
-  margin: 0 auto;
-}
-
 table {
   max-width: 900px !important;
   margin-left: auto !important;
   margin-right: auto !important;
-}
-
-table td:first-child {
-  width: 18%;
-}
-
-table td:nth-child(2) {
-  width: 35%;
-}
-
-table td:nth-child(3) {
-  width: 47%;
 }
 </style>
 
