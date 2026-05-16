@@ -9,18 +9,11 @@
 .schedule-row {
   display: flex;
   margin-bottom: 0.85em;
-  padding-bottom: 6px;
-  border-bottom: 1px solid #eee;
-}
-
-.schedule-row:last-child {
-  border-bottom: none;
 }
 
 .schedule-row .time {
   width: 80px;
   font-weight: 600;
-  flex-shrink: 0;
 }
 
 .schedule-row .content {
@@ -33,15 +26,12 @@
 .schedule-row.break {
   color: #666;
   font-style: italic;
-  background: #fafafa;
-  padding: 6px 8px;
-  border-radius: 4px;
 }
 
 /* ===== Speaker ===== */
 
 .speaker {
-  font-weight: 500;
+  font-weight: 600;
   color: #444;
   display: inline; /* ensures tight hover area */
 }
@@ -73,16 +63,6 @@
 .tippy-box {
   font-size: 0.9rem;
   line-height: 1.4;
-}
-
-.has-tooltip {
-  text-decoration: underline dotted;
-  text-underline-offset: 2px;
-  border-bottom: none;
-}
-
-.has-tooltip:hover {
-  border-bottom-color: #888;
 }
 
 /* ===== Desktop ===== */
