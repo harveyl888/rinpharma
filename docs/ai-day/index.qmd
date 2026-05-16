@@ -1,6 +1,6 @@
 ---
 title: "R/Pharma genAI Day 2026"
-subtitle: "Info on R/Pharma's third genAI single day event"
+subtitle: "Information on R/Pharma's third genAI single day event"
 title-block-banner: "#EDF3F9"
 title-block-banner-color: body
 page-layout: full
@@ -15,13 +15,19 @@ format:
         <script src="schedule.js"></script>    
 ---
 
+:::: {.hero-buttons-ai}
+[genAI Day Registration](https://events.zoom.us/ev/AkKYQ7Uryr8k8HeuQ7F6rkZTHJwjHlP6gxu14Z2s1LYb0kswLdDT~ApU4J3CViJWrwmjZhnw0nwGzDFCxNGoMHJAw01NbG30yNwnVwf9IJQkvOg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank" data-tippy-content="Register for the virtual event (free)"}
+
+[Expo Submission](https://docs.google.com/forms/d/e/1FAIpQLSeTxjipa92YWmM6ZZhb2C6hFKmlB2b7eYaQ33lQZIIu-wuOPw/viewform?usp=sharing&ouid=116517077506150901012){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank" data-tippy-content="Submit a booth for the genAI Expo session"}
+::::
+
 The third Annual R/Pharma genAI Day will be held virtually on **June 16, 2026**.  This free single day event will focus on examples of using generative and agentic artificial intelligence with an emphasis in the drug development space and clinical domain.
 
-This page contains details and a schedule for the event.  For registration and other information, please visit the [R/Pharma genAI Day](https://events.zoom.us/ev/AkKYQ7Uryr8k8HeuQ7F6rkZTHJwjHlP6gxu14Z2s1LYb0kswLdDT~ApU4J3CViJWrwmjZhnw0nwGzDFCxNGoMHJAw01NbG30yNwnVwf9IJQkvOg){target="_blank"}.
+This page contains details and a schedule for the event.  For registration and other information, please visit [R/Pharma genAI Day](https://events.zoom.us/ev/AkKYQ7Uryr8k8HeuQ7F6rkZTHJwjHlP6gxu14Z2s1LYb0kswLdDT~ApU4J3CViJWrwmjZhnw0nwGzDFCxNGoMHJAw01NbG30yNwnVwf9IJQkvOg){target="_blank"}.
 
-## Expo
+## Calling all Open Source Developers!
 
-We will be featuring a virtual exhibition hall that will be open throughout the event.  This is a change for you to showcase your awesome open source creations!  Please consider sharing your work in a virtual booth if you:
+We will be featuring a virtual exhibition hall that will be open throughout the event.  This is a chance for you to showcase your awesome open source creations!  Please consider sharing your work in a virtual booth if you:
 
 - have an R or Python package or app
 - have created a useful AI agent or skill

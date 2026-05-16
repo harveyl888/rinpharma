@@ -100,3 +100,18 @@
     margin-left: 0;
   }
 }
+
+/* ===== Buttons ===== */
+
+.hero-buttons-ai {
+  display: flex;
+  justify-content: center;
+  gap: 14px;
+  flex-wrap: wrap;
+  margin-bottom: 1.2rem;
+}
+
+.hero-buttons-ai .btn {
+  min-width: 200px;   /* optional: equal-ish width */
+  text-align: center;
+}
