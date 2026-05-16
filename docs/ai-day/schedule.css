@@ -1,3 +1,5 @@
+/* ===== Layout ===== */
+
 .schedule-row {
   display: flex;
   margin-bottom: 0.85em;
@@ -20,7 +22,8 @@
   line-height: 1.4;
 }
 
-/* Break styling (more distinct but still subtle) */
+/* ===== Break styling ===== */
+
 .schedule-row.break {
   color: #666;
   font-style: italic;
@@ -29,13 +32,16 @@
   border-radius: 4px;
 }
 
-/* Speaker line */
+/* ===== Speaker ===== */
+
 .speaker {
   font-weight: 500;
   color: #444;
+  display: inline; /* ensures tight hover area */
 }
 
-/* Title + duration layout */
+/* ===== Title + duration ===== */
+
 .title-row {
   display: flex;
   justify-content: space-between;
@@ -44,8 +50,10 @@
 }
 
 .title-row .talk-title {
-  flex: 1;
-  min-width: 0; /* prevents overflow issues */
+  flex: 0 1 auto;   /* 🔑 prevents stretching across row */
+  min-width: 0;
+  display: inline;  /* 🔑 fixes hover area */
+  margin-top: 2px;
 }
 
 .title-row .duration {
@@ -54,28 +62,17 @@
   font-size: 0.9em;
 }
 
-/* Redundant but harmless fallback */
-.talk-title {
-  display: inline-block;
-  margin-top: 2px;
-}
+/* ===== Tooltip ===== */
 
-.duration {
-  margin-left: 8px;
-  color: #888;
-  font-size: 0.9em;
-}
-
-/* Tooltip readability */
 .tippy-box {
   font-size: 0.9rem;
   line-height: 1.4;
 }
 
-/* Tooltip affordance */
 .has-tooltip {
-  cursor: pointer;
-  border-bottom: 1px dotted #bbb;
+  text-decoration: underline dotted;
+  text-underline-offset: 2px;
+  border-bottom: none;
 }
 
 .has-tooltip:hover {
@@ -83,6 +80,7 @@
 }
 
 /* ===== Mobile ===== */
+
 @media (max-width: 600px) {
 
   .schedule-row {
@@ -94,7 +92,6 @@
     margin-bottom: 4px;
   }
 
-  /* 🔧 FIX: you were using grid props on flex */
   .title-row {
     flex-direction: column;
     align-items: flex-start;
