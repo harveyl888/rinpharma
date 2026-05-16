@@ -153,10 +153,12 @@ render_row <- function(row) {
   )
 }
 
-schedule_html <- tagList(
-  lapply(seq_len(nrow(schedule)), function(i) {
-    render_row(schedule[i, ])
-  })
+schedule_html <- tags$div(class = "schedule-container",
+  tagList(
+    lapply(seq_len(nrow(schedule)), function(i) {
+      render_row(schedule[i, ])
+    })
+  )
 )
 ```
 

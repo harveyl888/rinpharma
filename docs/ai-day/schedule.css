@@ -1,5 +1,11 @@
 /* ===== Layout ===== */
 
+.schedule-container {
+  width: 100%;
+  padding-left: 12px;
+  padding-right: 12px;
+}
+
 .schedule-row {
   display: flex;
   margin-bottom: 0.85em;
@@ -77,6 +83,18 @@
 
 .has-tooltip:hover {
   border-bottom-color: #888;
+}
+
+/* ===== Desktop ===== */
+
+@media (min-width: 900px) {
+
+  .schedule-container {
+    max-width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
 }
 
 /* ===== Mobile ===== */
