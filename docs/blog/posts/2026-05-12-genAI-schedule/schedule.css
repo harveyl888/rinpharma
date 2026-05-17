@@ -33,11 +33,6 @@
   font-size: 0.9em;
 }
 
-.tippy-box {
-  font-size: 0.9rem;
-  line-height: 1.4;
-}
-
 .title-row {
   display: flex;
   justify-content: space-between;
