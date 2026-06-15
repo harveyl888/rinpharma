@@ -434,7 +434,7 @@
 
 - time: "07:30 IST"
   type: "workshop"
-  title: "Hands-on Introduction to AI with Ellmer and Positron"
+  title: "Use AI to build and share insights from health data"
   duration: "115 min"
   track: apac
   abstract: >
@@ -455,7 +455,6 @@
         Garrett Grolemund is the Co-Author of R for Data Science, the creator of the Lubridate R 
         package, and an ASA award-winning educator. For over a decade, he has helped data scientists 
         learn to analyze data with R's Tidyverse and build interactive apps with R's Shiny framework.
-  speakers:
     - name: "Phil Bowsher"
       affiliation: "Posit"
       bio: " "
