@@ -31,7 +31,7 @@ Our mission:
 ::: {.hero-buttons}
 <!--[R/Pharma 2025 Registration](https://events.zoom.us/ev/Ai-geyS63AOzr-Tskeu2jwsPAZkX9yQixTAJuQzNT-h_rw24wX-p~AnyGxi92zGyWPS_7xPj-Oax9RjoaU3pZS0DjeX45ML084eyqq4qo6O7BMg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Call-for-Talks](https://sessionize.com/rpharma-2026/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}-->
-[genAI Day Registration](https://events.zoom.us/ev/AkKYQ7Uryr8k8HeuQ7F6rkZTHJwjHlP6gxu14Z2s1LYb0kswLdDT~ApU4J3CViJWrwmjZhnw0nwGzDFCxNGoMHJAw01NbG30yNwnVwf9IJQkvOg){.btn-action-success .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
+[R/Pharma 2026 Registration](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){.btn-action-success .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
 <!--[YouTube Channel](https://www.youtube.com/rinpharma){.btn-action-warning .btn-action .btn .btn-warning .btn-lg role="button" target="_blank"}-->
 ::: 
 
@@ -76,12 +76,9 @@ Our mission:
 ::: {.g-col-lg-6 .g-col-12}
 ## Latest Announcement
 
-<p><strong>genAI Day is happening June 16.  Registration is open!</strong><br/>
-Schedule available [here](/docs/ai-day/index.qmd)
-</p>
-
 <p><strong>R/Pharma 2026 is happening October 20–21!</strong><br/>
 Workshops will take place <strong>September 28 – October 1</strong>.<br/>
+Registration is available via this [link](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){target="_blank"}
 </p>
 
 <p>
@@ -124,11 +121,11 @@ The first conference took place in 2018, as an in-person event hosted by Harvard
 The conference is free to attend, and all hosting costs are met by contributions by 
 Pharma companies.
 
-<!--R/Pharma runs Europe/US and APAC tracks.  To register click the button below.
+R/Pharma runs Europe/US and APAC tracks.  To register click the button below.
 
 :::: {.hero-buttons}
-[R/Pharma 2025 Registration](https://events.zoom.us/ev/Ai-geyS63AOzr-Tskeu2jwsPAZkX9yQixTAJuQzNT-h_rw24wX-p~AnyGxi92zGyWPS_7xPj-Oax9RjoaU3pZS0DjeX45ML084eyqq4qo6O7BMg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
-::::--> 
+[R/Pharma 2026 Registration](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
+::::
 
 :::
 
@@ -148,8 +145,14 @@ Pharma companies.
 
 The R/Pharma summit has run for three years at posit::conf.  In 2025, over 100 representatives from 40+ companies met in-person to discuss some of the most pressing topics pharma is tackling.  The in-person summit focuses on the future of drug development using open source and tailored for program leaders and people leading Open Source initiatives. A summary of prior years is here: [Summit page](/docs/summit). 
 
-Throughout the 2025 R/Pharma Summit, facilitators fostered in-person discussions and conversations about key items (reproducibility, interactivity, submissions, scalability, etc.) with industry leaders about open-source tools for next-generation submissions. The advisory board, shaping the agenda and planned actions for the event, is made up of more than 10 pharma companies as well as CROs and academic research centers.
+In 2026 we will host two summits.  The first will run on September 13th in Houston, TX, the day before posit::conf.  The second will run on October 5th at the Novartis Campus in Basel.  
+Registration for the US summit is available via posit::conf and more details on the European summit are available [here](https://github.com/rinpharma/rinpharma-summit-2026).  
+We invite the public to suggest and comment on round-table discussions through the summit [Github Discussion Board](https://github.com/rinpharma/rinpharma-summit-2026/discussions).
 
+
+<!--
+Throughout the 2025 R/Pharma Summit, facilitators fostered in-person discussions and conversations about key items (reproducibility, interactivity, submissions, scalability, etc.) with industry leaders about open-source tools for next-generation submissions. The advisory board, shaping the agenda and planned actions for the event, is made up of more than 10 pharma companies as well as CROs and academic research centers.
+-->
 :::
 :::
 
