@@ -53,7 +53,7 @@ website:
   announcement: 
     icon: bell-fill
     dismissable: true
-    content: "R/Pharma Virtual 2026 registration open [here](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){target='_blank'}<br/>It will run Sept 28-Oct 1 (Workshops) and Oct 20-21 (Presentations)!"
+    content: "R/Pharma Virtual 2026 recordings will follow shortly"
     type: primary
     position: below-navbar
   navbar:
