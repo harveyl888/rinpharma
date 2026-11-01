@@ -31,8 +31,8 @@ Our mission:
 ::: {.hero-buttons}
 <!--[R/Pharma 2025 Registration](https://events.zoom.us/ev/Ai-geyS63AOzr-Tskeu2jwsPAZkX9yQixTAJuQzNT-h_rw24wX-p~AnyGxi92zGyWPS_7xPj-Oax9RjoaU3pZS0DjeX45ML084eyqq4qo6O7BMg){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button"}
 [Call-for-Talks](https://sessionize.com/rpharma-2026/){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}-->
-[R/Pharma 2026 Registration](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){.btn-action-success .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
-<!--[YouTube Channel](https://www.youtube.com/rinpharma){.btn-action-warning .btn-action .btn .btn-warning .btn-lg role="button" target="_blank"}-->
+<!--[R/Pharma 2026 Registration](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){.btn-action-success .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}-->
+[YouTube Channel](https://www.youtube.com/rinpharma){.btn-action-warning .btn-action .btn .btn-warning .btn-lg role="button" target="_blank"}
 ::: 
 
 :::
@@ -76,9 +76,8 @@ Our mission:
 ::: {.g-col-lg-6 .g-col-12}
 ## Latest Announcement
 
-<p><strong>R/Pharma 2026 is happening October 20–21!</strong><br/>
-Workshops will take place <strong>September 28 – October 1</strong>.<br/>
-Registration is available via this [link](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){target="_blank"}
+<p><strong>R/Pharma 2026 has completed</strong><br/>
+Workshop and conference recordings will be online shortly.
 </p>
 
 <p>
@@ -86,7 +85,7 @@ Registration is available via this [link](https://events.zoom.us/ev/Ao58QRuKpY_A
 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="18">
 Follow us on LinkedIn
 </a>
-to be notified when submissions open and to stay up to date on speakers, program announcements, and conference news.
+to stay up to date on all R/Pharma events.
 </p>
 
 <!--:::: {.hero-buttons}
@@ -121,12 +120,13 @@ The first conference took place in 2018, as an in-person event hosted by Harvard
 The conference is free to attend, and all hosting costs are met by contributions by 
 Pharma companies.
 
-R/Pharma runs Europe/US and APAC tracks.  To register click the button below.
+R/Pharma runs Europe/US and APAC tracks.  Look out for announcements in 2027 for our 10th anniversary events.
 
+<!--
 :::: {.hero-buttons}
 [R/Pharma 2026 Registration](https://events.zoom.us/ev/Ao58QRuKpY_AuvCDVGqF3tiibvbsLw6MKXn7n_PL2vPdHVQnSAuC~AulApVxluxkRoEef4TZ6ozp1uwmnBHGti8cDERG7p01yOGKH0KXFbLhUNw){.btn-action-primary .btn-action .btn .btn-success .btn-lg role="button" target="_blank"}
 ::::
-
+-->
 :::
 
 ::: {.g-col-lg-6 .g-col-12}
@@ -143,11 +143,13 @@ R/Pharma runs Europe/US and APAC tracks.  To register click the button below.
 
 ## R/Pharma Summit
 
-The R/Pharma summit has run for three years at posit::conf.  In 2025, over 100 representatives from 40+ companies met in-person to discuss some of the most pressing topics pharma is tackling.  The in-person summit focuses on the future of drug development using open source and tailored for program leaders and people leading Open Source initiatives. A summary of prior years is here: [Summit page](/docs/summit). 
+The R/Pharma summit has run for four years at posit::conf.  In 2025, over 100 representatives from 40+ companies met in-person to discuss some of the most pressing topics pharma is tackling.  The in-person summit focuses on the future of drug development using open source and tailored for program leaders and people leading Open Source initiatives. A summary of prior years is here: [Summit page](/docs/summit). 
 
-In 2026 we will host two summits.  The first will run on September 13th in Houston, TX, the day before posit::conf.  The second will run on October 5th at the Novartis Campus in Basel.  
-Registration for the US summit is available via posit::conf and more details on the European summit are available [here](https://rinpharma.github.io/rinpharma-summit-2026/).  
-We invite the public to suggest and comment on round-table discussions through the summit [Github Discussion Board](https://github.com/rinpharma/rinpharma-summit-2026/discussions).
+In 2026 we hosted two summits.  The first ran on September 13th in Houston, TX, the day before posit::conf.  The second ran on October 5th at the Novartis Campus in Basel.
+
+We invite the public to suggest and comment on round-table discussions during the summit organization phase.  Announcements for 2027 summits to follow.
+<!--Registration for the US summit is available via posit::conf and more details on the European summit are available [here](https://rinpharma.github.io/rinpharma-summit-2026/).  
+We invite the public to suggest and comment on round-table discussions through the summit [Github Discussion Board](https://github.com/rinpharma/rinpharma-summit-2026/discussions).-->
 
 
 <!--
@@ -164,13 +166,14 @@ Throughout the 2025 R/Pharma Summit, facilitators fostered in-person discussions
 ::: {.g-col-lg-12 .g-col-12}
 ## Community
 
+<!--
 ### Diversity Alliance
 
 We aspire to be an inclusive R community for developers who work in the pharma space. Our goal is to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build a community of diverse voices. The R/Pharma **Diversity Alliance** is a space where all ways of being and doing can feel welcome.  Each year, the Diversity Alliance put on a hackathon to introduce new voices to open source R package development.  For more details subscribe to our [meeting calendar](https://www.addevent.com/calendar/AD808454){target="_blank"} or email us at [diversityalliance@opensourceinpharma.com](mailto:diversityalliance@opensourceinpharma.com).
-
+-->
 ### R/Pharma Hangouts
 
-The monthly R/Pharma hangout is a place to discuss all things open source.  The hangouts are hosted by Eric Nantz and Jared Woolfolk and are never recorded so you can be yourself!  For more details, subscribe to our [meeting calendar](https://www.addevent.com/calendar/wC797942){target="_blank"}.
+The monthly R/Pharma hangout is a place to hear from a key innovator.  Hangouts are hosted by Eric Nantz and Jared Woolfolk and recordings are available on the [R/Pharma site](/docs/hangout/recordings/).  For more details, subscribe to our [meeting calendar](https://www.addevent.com/calendar/wC797942){target="_blank"}.
 
 :::
 :::
